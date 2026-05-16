@@ -206,7 +206,7 @@ Este módulo funciona como administrador principal del sistema.
 # 📂 Estructura del proyecto
 
 ```bash
-CarRentalManagementSystemMVC/
+PlataformaWebRentaVehiculos/
 │
 ├── app/
 │   ├── controllers/          # Controladores MVC
@@ -243,7 +243,7 @@ CarRentalManagementSystemMVC/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/CarRentalManagementSystemMVC.git
+git clone https://github.com/isairey/PlataformaWebRentaVehiculos.git
 ```
 
 ---
@@ -253,7 +253,7 @@ git clone https://github.com/isairey/CarRentalManagementSystemMVC.git
 Copiar proyecto hacia:
 
 ```bash
-xampp/htdocs/CarRentalManagementSystemMVC/
+xampp/htdocs/PlataformaWebRentaVehiculos/
 ```
 
 ---
@@ -302,7 +302,7 @@ define('DB_NAME', 'car_rental_mvc');
 Abrir:
 
 ```bash
-http://localhost/CarRentalManagementSystemMVC/
+http://localhost/PlataformaWebRentaVehiculos/
 ```
 
 ---
